@@ -1,0 +1,19 @@
+{
+  "name": "topcoder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzdharmendray7-dev/Date-and-Time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzdharmendray7-dev/Date-and-Time/issues"
+  },
+  "homepage": "https://github.com/itzdharmendray7-dev/Date-and-Time#readme"
+}
